@@ -1,0 +1,203 @@
+@media (min-width: 500px) {
+    .menu-bar {
+        padding: 12px 0;
+        background-color: #ffffff;
+    }
+    .logo {
+        color: #191919;
+    }
+    .navbar__button-none {
+        display: none;
+    }
+    .hero__header {
+        display: block;
+        font-size: 37px;
+        font-weight: bold;
+    }
+    .hero__text {
+        display: block;
+        padding: 15px 0 15px 0;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .btn__ {
+        background-color: #ff7f50 !important;
+        border-color: #ff7f50 !important;
+        color: #ffffff !important;
+    }
+    .header__text {
+        display: block;
+        font-size: x-large;
+    }
+    .header__describe {
+        display: block;
+    }
+    .game-type {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .game-device {
+        background-color: #f8f9fa;
+        color: #212529;
+    }
+    .footer {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .footer__header {
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 768px) {
+    .menu-bar {
+        padding: 12px 0;
+        background-color: #ffffff;
+    }
+    .logo {
+        color: #191919;
+    }
+    .navbar__button-none {
+        display: none;
+    }
+    .hero__header {
+        display: block;
+        font-size: 37px;
+        font-weight: bold;
+    }
+    .hero__text {
+        display: block;
+        padding: 15px 0 15px 0;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .btn__ {
+        background-color: #ff7f50 !important;
+        border-color: #ff7f50 !important;
+        color: #ffffff !important;
+    }
+    .header__text {
+        display: block;
+        font-size: x-large;
+    }
+    .header__describe {
+        display: block;
+    }
+    .game-type {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .game-device {
+        background-color: #f8f9fa;
+        color: #212529;
+    }
+    .footer {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .footer__header {
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 992px) {
+    .menu-bar {
+        padding: 12px 0;
+        background-color: #ffffff;
+    }
+    .logo {
+        color: #191919;
+    }
+    .navbar__button-none {
+        display: block;
+    }
+    .hero__header {
+        display: block;
+        font-size: 37px;
+        font-weight: bold;
+    }
+    .hero__text {
+        display: block;
+        padding: 15px 0 15px 0;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .btn__ {
+        background-color: #ff7f50 !important;
+        border-color: #ff7f50 !important;
+        color: #ffffff !important;
+    }
+    .header__text {
+        display: block;
+        font-size: x-large;
+    }
+    .header__describe {
+        display: block;
+    }
+    .game-type {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .game-device {
+        background-color: #f8f9fa;
+        color: #212529;
+    }
+    .footer {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .footer__header {
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 1200px) {
+    .menu-bar {
+        padding: 12px 0;
+        background-color: #ffffff;
+    }
+    .logo {
+        color: #191919;
+    }
+    .navbar__button-none {
+        display: block;
+    }
+    .hero__header {
+        display: block;
+        font-size: 37px;
+        font-weight: bold;
+    }
+    .hero__text {
+        display: block;
+        padding: 15px 0 15px 0;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .btn__ {
+        background-color: #ff7f50 !important;
+        border-color: #ff7f50 !important;
+        color: #ffffff !important;
+    }
+    .header__text {
+        display: block;
+        font-size: x-large;
+    }
+    .header__describe {
+        display: block;
+    }
+    .game-type {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .game-device {
+        background-color: #f8f9fa;
+        color: #212529;
+    }
+    .footer {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+    .footer__header {
+        font-weight: bold;
+    }
+}
